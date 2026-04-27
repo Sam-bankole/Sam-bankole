@@ -49,8 +49,8 @@ I am a Software Engineer focused on building scalable products and mobile applic
 ---
 
 ### 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-bankole&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-bankole&layout=compact&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-bankole&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-bankole&show_icons=true&count_private=true&theme=radical)
 
 ---
 
